@@ -25,6 +25,10 @@
       <p>Categories: <%= link_categories(@item[:categories]).join(', ') %></p>
     </div>
 
+    <div class="tags">
+      <p>Tags: <%= link_categories(@item[:tags]).join(', ') %></p>
+    </div>
+
     <%= yield %>
 
     <div class="up">&uArr; <a href="#home">Back to top</a></div>
