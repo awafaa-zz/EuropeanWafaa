@@ -1,6 +1,7 @@
 include Nanoc::Helpers::Blogging
 include Nanoc::Helpers::Rendering
 include Nanoc::Helpers::LinkTo
+include Nanoc::Helpers::Tagging
 require 'fileutils'
 require 'redcarpet'
 
