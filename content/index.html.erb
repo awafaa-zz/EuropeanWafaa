@@ -1,0 +1,39 @@
+---
+title: Home
+---
+
+<h1 class="title">
+  <%= @site.config[:title] %>
+  <span class="subtitle">: A Stream From The Subconscious Of A Geek</span>
+</h1>
+
+<h2 class="h_banner">Recent arrivals...</h2>
+
+<ul class="archive">
+  <% sorted_articles[0..4].each do |article| %>
+    <li>
+      <span><%= article.attributes[:created_at] %> &middot; </span>
+      <a href="<%= relative_path_to(article) %>"><%= article.attributes[:title] %></a>
+    </li>
+  <% end %>
+</ul>
+
+<div class="footer group">
+  <ul class="nav">
+    <li class="here">Home</li>
+    <li>| <a href="/about.html">About</a></li>
+    <li>| <a href="/archive.html">Archive</a></li>
+    <li>| <a href="/categories.html">Categories</a></li>
+  </ul>
+  <ul class="me">
+    <li>
+      <a href="/atom.xml" class="rss">Subscribe</a>
+    </li>
+    <li>
+      <a href="https://github.com/awafaa" class="github">Me @ Github</a>
+    </li>
+    <li>
+      <a href="https://twitter.com/awafaa" class="twitter">Me @ Twitter</a>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,244 @@
+body {
+  margin: 10px auto;
+  width: 820px;
+  font-size: 18px;
+  font-family: "DejaVuSerifBook", "Palatino", "Palatino Linotype", serif;
+  color: #222;
+  background: #F6F6F6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "DejaVuSansBook", "Lucida Grande", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  line-height: 1.6;
+  margin-bottom: 5px;
+  color: #111;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+h2, h3, h4, h5, h6 { margin-top: 20px; }
+
+.title {
+  margin: 0 0 8px 0;
+  font-size: 28px;
+}
+
+.title a:link, .title a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+
+.title a:hover, .title a:focus {
+  color: #232324;
+  border-bottom: 2px solid #161616;
+  background: #BABABA;
+}
+
+.title {
+  margin-bottom: 10px;
+  border-bottom: solid 4px;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0 0 25px 0;
+  padding: 0;
+  font-family: "DejaVuSansBook", "Lucida Grande", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+}
+
+.nav li {
+  display: inline;
+  padding-right: 3px;
+}
+
+.archive, .arch {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 0 15px;
+  font-size: 20px;
+}
+
+.h_banner { border-bottom: none; }
+
+#home, .up, .footer ul {
+  font-size: 18px;
+  font-family: "DejaVuSansBook", "Lucida Grande", "Helvetica Neue", sans-serif;
+}
+
+#home {
+  margin: 0;
+  padding: 0;
+}
+
+h1 { font-size: 28px; }
+
+h2 { font-size: 24px; border-bottom: solid 4px; }
+h3 { font-size: 20px; }
+
+p {
+  line-height: 1.3;
+  margin: 12px auto;
+
+}
+
+code {
+  font-family: "DejaVuSansMono", Inconsolata, Consolas, Menlo, monospace;
+}
+p code { font-size: 80%; }
+
+blockquote {
+  margin: 10px 30px 10px 20px;
+}
+
+blockquote p {
+  line-height: 1.2;
+}
+
+ul, ol, ul p, ol p {
+  margin-left: 0;
+  line-height: 1.3;
+}
+
+ul ul, ol ol {
+  font-size: 100%;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ul ul {
+  list-style-type: circle;
+}
+
+ul ul ul {
+  list-style-type: square;
+}
+
+ul ul ul ul {
+  list-style-type: disc;
+}
+
+h2 + p {
+  margin-top: 15px;
+}
+
+a:link, a:visited {
+  color: #118CCD;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #0C618E;
+  text-decoration: underline;
+}
+
+.stamp {
+  color: #B8B8B8;
+  font-size: 12px;
+  margin-top: -10px;
+}
+
+.nav {
+  float: left;
+  margin-top: 10px;
+}
+
+.footer {
+  margin-top: 20px;
+  border-top: solid 4px;
+  color: #111;
+}
+
+pre {
+  margin: 30px 15px;
+  padding: 10px 5px 10px 15px;
+  border: solid black 5px;
+  border-left: solid black 30px;
+  font-size: 14px;
+  line-height: 1.3;
+  background: #FFF;
+  color: #000;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+ins {
+  text-decoration: none;
+}
+
+ins:before {
+  content: "〈";
+}
+
+ins:after {
+  content: "〉";
+}
+
+.group:before, .group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  zoom: 1;
+}
+
+.me {
+  padding: 0;
+  margin: 10px 0 0;
+}
+
+.me li {
+  float: right;
+  margin-left: 10px;
+  list-style-type: none;
+}
+
+.rss, .github, .twitter {
+  background: url('../images/sprites.png');
+  display: block;
+  height: 32px;
+  width: 29px;
+  text-indent: -9999px;
+}
+
+.github {
+  background-position: -84px 0;
+}
+
+.rss {
+  background-position: -248px 0;
+}
+
+.twitter {
+  background-position: -412px 0;
+}
+
+.github:hover, .github:focus {
+  background-position: -2px 0;
+}
+
+.rss:hover, .rss:focus {
+  background-position: -166px 0;
+}
+
+.twitter:hover, .twitter:focus {
+  background-position: -330px 0;
+}
+
+.cloud {
+  word-spacing: 20px;
+  line-height: 2;
+}

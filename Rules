@@ -1,0 +1,129 @@
+#!/usr/bin/env ruby
+
+# A few helpful tips about the Rules file:
+#
+# * The order of rules is important: for each item, only the first
+# matching rule is applied.
+#
+# * Item identifiers start and end with a slash (e.g. “/about/”
+# for the file “content/about.html”). To select all children,
+# grandchildren, … of an item, use the pattern “/about/*/”;
+# “/about/*” will also select the parent, because “*” matches
+# zero or more characters.
+
+preprocess do
+  create_category_pages
+end
+
+compile '/' do
+  filter :erb
+  layout 'default'
+  filter :typogruby
+end
+
+route '/' do
+  '/index.html'
+end
+
+compile '/static/*/' do
+end
+
+route '/static/*/' do
+  item.identifier[7..-2]
+end
+
+compile '/about/' do
+  filter :erb
+  filter :redcarpet
+  filter :argh
+  layout 'default'
+  filter :typogruby
+end
+
+route '/about/' do
+  '/about.html'
+end
+
+compile '/archive/' do
+  filter :erb
+  layout 'default'
+  filter :typogruby
+end
+
+route '/archive/' do
+  '/archive.html'
+end
+
+compile '/atom/' do
+  filter :erb
+end
+
+route '/atom/' do
+  '/atom.xml'
+end
+
+compile '/categories/' do
+  filter :erb
+  layout 'default'
+  filter :typogruby
+end
+
+route '/categories/' do
+  '/categories.html'
+end
+
+compile '/categories/*/' do
+  filter :erb
+  layout 'category'
+  filter :typogruby
+end
+
+route '/categories/*/' do
+  item.identifier.chop + '.html'
+end
+
+compile '/tags/' do
+  filter :erb
+  layout 'default'
+  filter :typogruby
+end
+
+route '/tags/' do
+  '/categories.html'
+end
+
+compile '/tags/*/' do
+  filter :erb
+  layout 'category'
+  filter :typogruby
+end
+
+route '/tags/*/' do
+  item.identifier.chop + '.html'
+end
+
+compile %r{^/201[0-9]{1}-[0-9]{2}-[0-9]{2}} do
+  filter :redcarpet
+  filter :argh
+  layout 'post'
+  filter :typogruby
+end
+
+route %r{^/201[0-9]{1}-[0-9]{2}-[0-9]{2}} do
+  blog_route(item)
+end
+
+compile '/css/normalize/' do
+  filter :rainpress
+end
+
+compile '/css/*/' do
+  filter :sass, :syntax => :scss
+  filter :rainpress
+end
+
+route '/css/*/' do
+  item.identifier.chop + '.css'
+end
+
+layout '/*/', :erb
