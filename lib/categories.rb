@@ -70,6 +70,7 @@ module Categories
   #
   # This is ugly, but better here then in the middle of a layout.
   def link_categories(cats)
+    return [] unless cats
     cats.map do |cat|
       ['<a href="/categories/', cat, '.html">', cat, '</a>'].join
     end
