@@ -54,37 +54,34 @@ and copy the sample 
 
 ```cp config.ini.sample config.ini```
 
-Now open config.ini in your preferred editor.
+Now open config.ini in your preferred editor. The key items to change are:
 
-The key items to change are:
-
-```db.host=```  <—you can leave this if your database is running on the same host as you web server.
-```db.username=```  <–enter the database username for the storytlr database
-```db.password=```  <–enter the database user password for the storytlr database
-```db.dbname=```  <–enter the database name for the storytlr database
-```security.cookie=```   <–you can replace all or part of this if you wish, just make it different to what is there already.
-```web.host=```  <–enter your desired web url without the http:// (i.e. stream.geeko.org)
-```web.timezone=```  <–put your desired/local timezone
-```debug=```  <–it is advisable to change this to 1.  It will help you when you run into issues
-```flickr.api_keys=```  <–you will need to add your api key here if you wish to use the flickr module.  You can get your key by heading [here][4] 
+* ```db.host=```  <—you can leave this if your database is running on the same host as you web server.
+* ```db.username=```  <–enter the database username for the storytlr database.
+* ```db.password=```  <–enter the database user password for the storytlr database.
+* ```db.dbname=```  <–enter the database name for the storytlr database.
+* ```security.cookie=```   <–you can replace all or part of this if you wish, just make it different to what is there already.
+* ```web.host=```  <–enter your desired web url without the http:// (i.e. stream.geeko.org).
+* ```web.timezone=```  <–put your desired/local timezone.
+* ```debug=```  <–it is advisable to change this to 1.  It will help you when you run into issues.
+* ```flickr.api_keys=```  <–you will need to add your api key here if you wish to use the flickr module.  You can get your key by heading [here][4] 
+* ```twitter.username=```  <–add your twitter credentials if you want items * to be posted to twitter (i.e. blog entries/etc)
+* ```twitter.password=```  <–add your twitter credentials if you want items to be posted to twitter (i.e. blog entries/etc)
+* ```gmap.key=```  <– same as flickr you need to add your api key here to use the map functionality.  You can get your key from [here][5]
+* ```default.timezone=```  <–again change it to your preferred/local timezone. If you’re not sure you can leave the default and change it via the admin panel.
+* ```default.timezoneid=```  <–again change it to your preferred/local timezone.  If you’re not sure you can leave the default and change it via the admin panel
 
  [4]: http://flickr.com/services/apps/create/apply/ "Flikr key generation"
-
-```twitter.username=```  <–add your twitter credentials if you want items to be posted to twitter (i.e. blog entries/etc)
-```twitter.password=```  <–add your twitter credentials if you want items to be posted to twitter (i.e. blog entries/etc)
-```gmap.key=```  <– same as flickr you need to add your api key here to use the map functionality.  You can get your key from [here][5]
-
  [5]: http://code.google.com/apis/maps/ "Google Maps key generation"
-
-```default.timezone=```  <–again change it to your preferred/local timezone.  If you’re not sure you can leave the default and change it via the admin panel
-```default.timezoneid=```  <–again change it to your preferred/local timezone.  If you’re not sure you can leave the default and change it via the admin panel
 
 Finally make sure you web server has the correct permissions to access the files
 
-```chown -R wwwrun:www $PATH/TO/INSTALL``` (replace wwwrun:www with whatever your distro uses if not on openSUSE).
+```chown -R wwwrun:www $PATH/TO/INSTALL``` (replace ```wwwrun:www``` with whatever your distro uses if not on openSUSE).
 
 So once all that is done just head over to your new site.  You can log in via the little key icon in the top right or just append /admin to your url.  The default credentials are 
+
 ```user=admin password=storytlr``` 
+
 please make sure you change the password once logged in.
 
 So that’s the install done, what about making sure the feeds saty up to date?  Well the only way of doing that is to set up a cronjob, not painful at all but not as automated as I’d have liked.  I’ve chosen to update every 7 minutes because there is so much going on in my web 2.0 life :-P
@@ -94,9 +91,12 @@ So basically choose your timing for updating your streams, and then run the upda
 ```*/7 * * * * php5 $PATH/TO/INSTALL/protected/tools/update.php admin ```
 
 There are several additional plugins available:
-[Github][6]
-[Goodreads][7]
-[Foursquare][8]
+
+* [Github][6] 
+
+* [Goodreads][7] 
+
+* [Foursquare][8] 
 
  [6]: http://github.com/jmhobbs/storytlr-plugin-github "Storytlr Github Plugin"
  [7]: http://github.com/jmhobbs/storytlr-plugin-goodreads "Storytlr Goodreads Plugin"
