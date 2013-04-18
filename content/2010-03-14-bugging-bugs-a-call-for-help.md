@@ -24,13 +24,10 @@ Now I know they all pump out emails when something changes to the bug, but havin
 Now what I would like is:
 
 *   An application that can either sit on my desktop or in the notification panel that can help me manage all my bugs.
-*   The app would need to be cross desktop friendly, so that it doesn’t look out of place on whichever DE I’m using – yes I do use more than one ![:-)][1] 
+*   The app would need to be cross desktop friendly, so that it doesn’t look out of place on whichever DE I’m using – yes I do use more than one :-) 
 *   Ideally offer some form of offline functionality – caching/storing the information locally.
-*   I don’t care what language it is written in, something that anyone can understand would be handy, heck I may even contribute some code if it is easy enough ![;-)][2] 
+*   I don’t care what language it is written in, something that anyone can understand would be handy, heck I may even contribute some code if it is easy enough ;-)
 *   Support multiple backends, as I said I use lots of different trackers so getting the bulk of them supported would be ideal.
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
 
 When I mention “offline” I would ideally like to have read write access so that I can then update a bug say if I’m on the move and then the app syncs with the backend next time I’m online.  I appreciate this may be harder to implement so I’d be happy with read only access.  Basically the sort of information I’d like to see is something along the lines of:
 
@@ -51,8 +48,8 @@ As I’m no code monkey I have no real idea on **how** to implement my idea, b
 
 Now I would love for the app to do the notifying of bug changes for me so I can disable all the email notifications I get.  So having some form of notification area presence would be great, and even providing a bubble when something does change:
 
-—————————————————  
-| N / BNC(1)|12345(2)|Foo Bar Noob(3) |  
+————————————————— 
+| N / BNC(1)|12345(2)|Foo Bar Noob(3) | 
 —————————————————
 
 1.  Logo or ID of bug tracker
@@ -61,7 +58,7 @@ Now I would love for the app to do the notifying of bug changes for me so I can 
 
 Now depending on how the app works will depend on what happens when one clicks on the bug id. Is there functionality for full context (fat app) or will it just open up in a browser.  The intial services I would like to see are (in priority) – Bugzilla, Savane, Launchpad, Trac, Sourceforge, and then anyting else.
 
-So does anyone fancy being my hero and coding this for me?  It would be great if we could get this as part of GSoC – I’ll add it to openFate and the wiki ![;-)][2] 
+So does anyone fancy being my hero and coding this for me?  It would be great if we could get this as part of GSoC – I’ll add it to openFate and the wiki ;-)
 
 If anyone knows of something that exists that provides this functionality please let me know.  Chris Lamb did create a GNOME Applet for the Debian BTS tracker that kind of did this so if it helps have a look [here][3] for the code.
 

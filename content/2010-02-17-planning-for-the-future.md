@@ -46,9 +46,7 @@ Now the trickier part – how to achieve those goals. So far all I can come up w
 
 As you can see the list for where is larger than the list for how. Sure I could expand the latter a bit by being more detailed but this is supposed to be a bullet list with summaries not an essay. In my view one needs to get a list to work from and then expand on it, maybe even categorising the bullet points to see what/how/where/when and also explaining why.
 
-Now Bongo is a relatively simple project with a small user base and community, and a very defined focus. The other project that I’m involved in and care for is openSUSE, and lord knows that is no simple beast ![:-)][2] 
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+Now Bongo is a relatively simple project with a small user base and community, and a very defined focus. The other project that I’m involved in and care for is openSUSE, and lord knows that is no simple beast :-)
 
 Let me try the same with [openSUSE][3]. The where:
 
@@ -71,12 +69,11 @@ Now the how:
 *   Speaking to developers of different projects to find ut what they feel is missing
 *   Win the lottery
 
-As you can see I’m woefully short on how on earth I am to achieve anything.  I’m open to suggestions ![:-)][2] 
+As you can see I’m woefully short on how on earth I am to achieve anything.  I’m open to suggestions :-)
 
-I know for a fact that there may be one or two items that I’ve listed that could be contentious, and do you know what? I sincerely hope so ![:-)][2] Now don’t get me wrong, I really do appreciate and am grateful for all the work effort and money that Novell has invested in openSUSE; but it isn’t fair at all for Novell to keep carrying the Project. If anyone thinks they’re not, you are living in lala land. Sure some of it might be their own doing, but a lot isn’t and it is up to us the community help them so that we can benefit even more.
+I know for a fact that there may be one or two items that I’ve listed that could be contentious, and do you know what? I sincerely hope so :-) Now don’t get me wrong, I really do appreciate and am grateful for all the work effort and money that Novell has invested in openSUSE; but it isn’t fair at all for Novell to keep carrying the Project. If anyone thinks they’re not, you are living in lala land. Sure some of it might be their own doing, but a lot isn’t and it is up to us the community help them so that we can benefit even more.
 
 I really do hope people start thinking, and doing it seriously about where they would like to see their preferred project in five years time. I would also love to see people’s responses as to Where & How they would do it. Anyone that starts screaming like my 21month old daughter about this or that will get a sound thrashing and ignored. There is absolutely **ZERO** room for pettiness in the community. If you disagree with something then great! Just make sure you are as detailed and as calm as possible about why and also how you propose to do it differently. This doesn’t just apply to this whole five year plan thing, but to general discussion.
 
-Don’t loose your passion, just learn to use your passion ![;-)][4] 
+Don’t loose your passion, just learn to use your passion ;-)
 
- [4]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif

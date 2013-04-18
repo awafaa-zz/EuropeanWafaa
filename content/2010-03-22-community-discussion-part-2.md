@@ -17,13 +17,9 @@ It’s been a couple of weeks since my [first Discussion with the Community][1]
 
  [1]: http://www.wafaa.eu/entry/community-discussion---part1-1-19.html "Community Discussion - Part 1"
 
-Some may seem pretty obvious to you, and some may seem like they aren’t tools at all.  So to clarify what my definition of a tool is – something that enables or facilitates the completion of a task.  So that gives the “Tool” a pretty big scope ![:-)][2] 
+Some may seem pretty obvious to you, and some may seem like they aren’t tools at all.  So to clarify what my definition of a tool is – something that enables or facilitates the completion of a task.  So that gives the “Tool” a pretty big scope :-) 
 
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
-
-Now as a community we have a lot of good tools already available to us.  One of the problems is that we don’t really know about them or we’ve forgotten about them.  So as a refresher here are the “hard” tools (no childish snickering please ![;-)][3] ) I can think of, if you notice any that I’ve missed out please let me know:
-
- [3]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Now as a community we have a lot of good tools already available to us.  One of the problems is that we don’t really know about them or we’ve forgotten about them.  So as a refresher here are the “hard” tools (no childish snickering please ;-) ) I can think of, if you notice any that I’ve missed out please let me know:
 
 *   [Forums][4]
 *   [Repository/Package Download][5]
@@ -73,7 +69,7 @@ Now as a community we have a lot of good tools already available to us.  One of
  [26]: http://hermes.opensuse.org/ "Get notified on your packages or feature requests"
  [27]: http://opensuse.blip.tv/ "See presentations etc from the openSUSE community"
 
-There is a good mix of tools hosted on Novell infrastructure and that hosted outside of Novell.  For instance the Source code is actually on the Gitorious service, why should we have to maintain our own DVCS when there are open services available?  Also with the Video, we use Blip.tv and will also add YouTube to the toolset for distribution of openSUSE video.  The Planet is hosted on a community owned and run server as is the Community Wiki and package search.  So you can’t say we are wholly reliant on Novell ![:-)][2] 
+There is a good mix of tools hosted on Novell infrastructure and that hosted outside of Novell.  For instance the Source code is actually on the Gitorious service, why should we have to maintain our own DVCS when there are open services available?  Also with the Video, we use Blip.tv and will also add YouTube to the toolset for distribution of openSUSE video.  The Planet is hosted on a community owned and run server as is the Community Wiki and package search.  So you can’t say we are wholly reliant on Novell :-)
 
 At the moment I don’t see anything that we’re missing, but I’m sure something will crop up and then we’ll go “Ah if only we had XYZ”, but when that happens we can look and see what best fits the bill and try and fix it.  The only complaint I think we have is that the integration between the tools isn’t as good as it could or should be.  This is something that has been picked up on so don’t worry too much, the Boosters are working hard to make things blend naturally.  So it will happen, just not over night.
 
@@ -90,7 +86,7 @@ Secondly we have recently seen that KDE have created their [Plasma Netbook Refe
  [31]: http://www.ogmaciel.com/ "THE Foresight & rPath man"
  [32]: http://www.ogmaciel.com/?p=828 "Og's Django Developer Kit"
 
-So my little mind is starting to tick, and this to those that know me well is always slightly dangerous ![:-)][2]   Why don’t we follow these examples, and provide language and function specific developer kits?  Prove to people that it isn’t difficult to make the switch to develop for their preferred language or what ever on openSUSE, give them Live & Installable ISOs, give them VM images. Give them the tools needed to get the job done!
+So my little mind is starting to tick, and this to those that know me well is always slightly dangerous :-)   Why don’t we follow these examples, and provide language and function specific developer kits?  Prove to people that it isn’t difficult to make the switch to develop for their preferred language or what ever on openSUSE, give them Live & Installable ISOs, give them VM images. Give them the tools needed to get the job done!
 
 We could always pimp these developer kits at the specific language conferences like PyCon, RailsConf etc.
 

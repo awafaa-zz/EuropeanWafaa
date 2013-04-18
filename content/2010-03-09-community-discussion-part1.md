@@ -17,7 +17,7 @@ tags:
 
 I thought it would be a good idea to try and engage you – the fine openSUSE community – in discussion about “Us” the Community.  We seemed to have been spoiled by having a Community Manager, people kind of seemed to let him do the work or worse expected him to do so.  Now that we don’t have that position any more we need to go back to basics and start rolling our sleeves up.  We’ve started but we have much to do.  As such this is the first in I’m not sure how many posts on the subject.
 
-To save me having to repeat myself constantly I’ll do a small disclaimer now:  
+To save me having to repeat myself constantly I’ll do a small disclaimer now: 
 **THESE ARE MY OPINIONS AND THOUGHTS AND NOT GOSPEL! I AM NOT EMPLOYED BY NOVELL! I WANT TO GET A DISCUSSION GOING NOT A FLAME WAR!**
 
 In my opinion this topic is linked to my previous post about the “[Planning For The Future][1]“.  The key here is to remain agile, able to flex, roll, bounce, jump and basically move with the times.  If we impose strict rigid requirements then things will start to crack and crumble.
@@ -32,12 +32,10 @@ So what do I see as key items needed to enable more community contributions, and
 *   **Coach** - no-one can get to a suitable proficiency in any subject whether it be academic/sporting/whatever without some form of tutelage.  To help lighten the work load on the employees that are trying to juggle between their enterprise workload and community workload we need to have them spend some time away from their corporate duties to help with some knowledge and skill sharing.
 *   **Teamwork** - stop depending on individuals, whether they are Novellian or non-Novellian one person can’t do it all in their supposed subject matter of expertise.
 *   **Educate** - self market, not just to the outside world but internally too.  The openSUSE community is too modest for it’s own good at times, we need to be more vocal about all the fantastic stuff we do.  We have to be clear and concise in the message we send out across the community.
-*   **Learn** - look at our peers and take a leaf out of their book sometimes.  Believe it or not they do do things right sometimes ![;-)][2] I’m not saying copy, but try and take the bits that are needed and roll it into what you want.
+*   **Learn** - look at our peers and take a leaf out of their book sometimes.  Believe it or not they do do things right sometimes ;-) I’m not saying copy, but try and take the bits that are needed and roll it into what you want.
 *   **Collaborate** - work with our peers on universal matters.  This doesn’t just mean cross-desktop, but also cross-project and cross-distro.
 *   **Listen** - take a moment to hear what is being said.  Just taking that little bit of extra time can help isolate the noise from the message and help you understand what is being said/asked.  Remember that not everyone is a native speaker of your language so things might get lost/confused in translation, which is where that little bit of time will help.
 *   **Lead** - you don’t have to do things by committee.  If you see something that needs/can be done just do it!  We dither around far too much waiting for someone else to do it.  Do what you can and then communicate what you’ve done and what if anything is outstanding.
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
 
 All the above link into one another almost inextricably, so not doing one will most likely have an detrimental effect on the rest.
 
