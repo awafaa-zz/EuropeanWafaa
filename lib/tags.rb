@@ -1,7 +1,7 @@
 module Tags
   extend Nanoc::Memoization
 
-  # Collect all categories from articles
+  # Collect all tags from articles
   #
   # :call-seq:
   #   all_tags(array) -> array
@@ -11,7 +11,7 @@ module Tags
   # posts scanned. The items in the array are Nanoc::Items where the
   # +kind+ is +article+
   #
-  # Returns an array of strings with the name of categories on those posts.
+  # Returns an array of strings with the name of tags on those posts.
   def all_tags(posts=articles)
     cats = []
     posts.each do |article|
@@ -22,35 +22,35 @@ module Tags
   end
   memoize :all_tags
 
-  # Check if a given article has a category
+  # Check if a given article has a tag
   #
-  # :call-seq: has_tag?(category, article) -> boolean
-  def has_tag?(category, article)
+  # :call-seq: has_tag?(tag, article) -> boolean
+  def has_tag?(tag, article)
     if article[:tags].nil?
       false
     else
-      article[:tags].include?(category)
+      article[:tags].include?(tag)
     end
   end
 
-  # Find all articles with a specific category.
+  # Find all articles with a specific tag.
   #
   # :call-seq:
-  #   articles_with_tag(category) -> array
-  #   articles_with_tag(category, posts) -> array
+  #   articles_with_tag(tag) -> array
+  #   articles_with_tag(tag, posts) -> array
   #
   # By default all articles are checked. Pass in an array to limit the
   # search to a subset of articles.
-  def articles_with_tag(category, posts=articles)
-    posts.select { |article| has_tag?(category, article) }
+  def articles_with_tag(tag, posts=articles)
+    posts.select { |article| has_tag?(tag, article) }
   end
   memoize :articles_with_tag
 
-  # Collect all articles and return them in sub-arrays by category.
+  # Collect all articles and return them in sub-arrays by tag.
   #
   # :call-seq:
-  #   articles_by_tag -> [category, array]
-  #   articles_by_tag(posts) -> [category, array]
+  #   articles_by_tag -> [tag, array]
+  #   articles_by_tag(posts) -> [tag, array]
   #
   # By default all articles are checked. Pass in an array to limit the
   # search to a subset of articles.
@@ -63,7 +63,7 @@ module Tags
   end
   memoize :articles_by_tag
 
-  # Turn a collection of categories into HTML links.
+  # Turn a collection of tags into HTML links.
   #
   # :call-seq:
   #   link_tags(cats) -> array
@@ -72,29 +72,29 @@ module Tags
   def link_tags(cats)
     return [] unless cats
     cats.map do |cat|
-      ['<a href="/categories/', cat, '.html">', cat, '</a>'].join
+      ['<a href="/tags/', cat, '.html">', cat, '</a>'].join
     end
   end
 
-  # Create individual pages for each category under root/categories.
+  # Create individual pages for each tag under root/tags.
   #
-  # There's no way to know in advance what categories the blog will have.
+  # There's no way to know in advance what tags the blog will have.
   # Instead of creating pages beforehand, we hook into the +preprocess+
   # method to run this method.
   #
-  # The method gathers all categories and their accompanying articles,
-  # creates a page for each category and lists the articles for it. Each
+  # The method gathers all tags and their accompanying articles,
+  # creates a page for each tag and lists the articles for it. Each
   # article is added to nanoc's +@items+ array for further processing.
   def create_tag_pages
-    articles_by_tag.each do |category, posts|
+    articles_by_tag.each do |tag, posts|
       @items << Nanoc::Item.new(
-        "<%= render('category', :category => '#{category}') %>",
+        "<%= render('tag', :tag => '#{tag}') %>",
         {
-          :title => "Posts in #{category}",
-          :h1 => "#{category} posts",
+          :title => "Posts in #{tag}",
+          :h1 => "#{tag} posts",
           :posts => posts
         },
-        "/tags/#{category}",
+        "/tags/#{tag}",
         :binary => false
       )
     end
