@@ -1,5 +1,5 @@
 ---
-title: 'Community Discussion &#8211; Part 7'
+title: 'Community Discussion - Part 7'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -15,9 +15,7 @@ tags:
 ---
 # 
 
-Yes I’m still at it, trying to get YOU the openSUSE community talking about what is important to you.  This time round I’d like to hear your opinions and thoughts about something.  I’m going to keep my views on the matter quiet until we get some dialogue going, so if you want to hear my thoughts (and let’s face it who doesn’t? ![;-)][1] ) best you start airing your opinions.
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Yes I’m still at it, trying to get YOU the openSUSE community talking about what is important to you.  This time round I’d like to hear your opinions and thoughts about something.  I’m going to keep my views on the matter quiet until we get some dialogue going, so if you want to hear my thoughts (and let’s face it who doesn’t? ;-) ) best you start airing your opinions.
 
 So what is the topic? That of Community Manager.  As many are aware, Novell have started interviewing for a replacement.  Some were not happy with how the role was done in the past and some and some were, but the key part of that statement is PAST!  Let’s move on and look to the future, and as part of that looking forward to the future I would like to hear what YOU would like from the new Community Manager?
 
@@ -39,8 +37,6 @@ The listed key responsibilities are:
 
 So do you (dis)agree with what’s there?  What else would you add?  Also if you feel there is a particular issue that the new Community manager needs to address what is that issue, why should they be involved and how do you think they could resolve it?  How would you advertise the position?
 
-People are bound to have opposing issue on items, and that is fine – if anything it is healthy and should be promoted.  As always this is about having a discussion, not a flame war.  Please try and be curteous to your fellow community members and if you can’t say anything constructive – don’t say anthing at all ![:-)][3] 
-
- [3]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+People are bound to have opposing issue on items, and that is fine – if anything it is healthy and should be promoted.  As always this is about having a discussion, not a flame war.  Please try and be curteous to your fellow community members and if you can’t say anything constructive – don’t say anthing at all :-)
 
 So people, let’s have your valuable opinions and thoughts on the matter.

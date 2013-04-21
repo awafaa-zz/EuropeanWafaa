@@ -30,9 +30,7 @@ As an example, Red Hat and Canonical do not have dedicated a11y developers but t
  [3]: http://live.gnome.org/Accessibility "GNOME Accessibility Team"
  [4]: http://accessibility.kde.org/ "KDE Accessibility Team"
 
-Accessibility is not an easy topic to tackle.  If one doesn’t understand the tools, how does one ensure the pieces you put together are working?  So how about we start learning, and do it well?  This is a subject that affects **all**users and developers, and is something that all DEs can jump on and help out.  Heck we may even learn a thing or two about how our colleagues/friends/enemies work ![;-)][5]   It affects us all, and as such we all need to help.
-
- [5]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Accessibility is not an easy topic to tackle.  If one doesn’t understand the tools, how does one ensure the pieces you put together are working?  So how about we start learning, and do it well?  This is a subject that affects **all**users and developers, and is something that all DEs can jump on and help out.  Heck we may even learn a thing or two about how our colleagues/friends/enemies work ;-)  It affects us all, and as such we all need to help.
 
 The European Eunion feels fairly strongly about Accessibility and as such there are numerous laws in place to try and ensure that users that require it are given an even chance.  They have also set up [AEGIS][6] to promote a11y usage.  In the United states the National Science Foundation is helping to fund [HFOSS][7] to help the a11y cause.  So as you can see there’s a fairly big push from it from central government.  If we don’t follow their example and neglect to have a11y in our focused sights I fear it could lead to a slippery downward slope for openSUSE.  If that sounds melodramatic then maybe it is, but it is something that I honestly do feel could affect us badly.
 

@@ -20,9 +20,7 @@ tags:
 
  []: http://www.fosdem.org/
 
-I’m going to that fine city of Brussels (yet again) for one of the best conferences going (IMHO). If you’re going grab me and say hi. If you’re thinking about going, stop! JUST GO!!! ![:-)][2] 
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+I’m going to that fine city of Brussels (yet again) for one of the best conferences going (IMHO). If you’re going grab me and say hi. If you’re thinking about going, stop! JUST GO!!! :-)
 
 [![FOSDEM, the Free and Open Source Software Developers' European Meeting][4]][4]
 

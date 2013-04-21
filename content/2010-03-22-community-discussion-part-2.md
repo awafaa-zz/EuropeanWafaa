@@ -1,5 +1,5 @@
 ---
-title: 'Community Discussion &#8211; Part 2'
+title: 'Community Discussion - Part 2'
 author: Andrew Wafaa
 layout: post
 kind: article

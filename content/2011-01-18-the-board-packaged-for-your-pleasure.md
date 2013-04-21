@@ -1,5 +1,5 @@
 ---
-title: 'The Board &#8211; packaged for your pleasure'
+title: 'The Board - packaged for your pleasure'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -28,9 +28,7 @@ There is a little gotcha with the packages – it is for openSUSE Factory/11.4 o
 
  [4]: http://www.wafaa.eu/image/medium/wQp5G2PzsDrcEvdnImoXdPjU20HtvVh6/TheBoardScreenshot.png
 
-Things aren’t 100%, as I need to do a tiny bit of cleaning up with the packages, but it works pretty well for a 0.1.0 release ![;-)][5] 
-
- [5]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Things aren’t 100%, as I need to do a tiny bit of cleaning up with the packages, but it works pretty well for a 0.1.0 release ;-)
 
 If you want to grab it then just head on over and click the magic button [![1Click for the-board][7]][7]
 

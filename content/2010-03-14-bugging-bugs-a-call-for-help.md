@@ -1,5 +1,5 @@
 ---
-title: 'Bugging Bugs &#8211; A Call For Help'
+title: 'Bugging Bugs - A Call For Help'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -8,7 +8,7 @@ permalink: /bugging-bugs-a-call-for-help/
 dsq_thread_id:
   - 770663292
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Bugs
   - Code
@@ -48,9 +48,11 @@ As I’m no code monkey I have no real idea on **how** to implement my idea, b
 
 Now I would love for the app to do the notifying of bug changes for me so I can disable all the email notifications I get.  So having some form of notification area presence would be great, and even providing a bubble when something does change:
 
-————————————————— 
+——————————————————————————————————————— 
+
 | N / BNC(1)|12345(2)|Foo Bar Noob(3) | 
-—————————————————
+
+———————————————————————————————————————
 
 1.  Logo or ID of bug tracker
 2.  Bug ID – clickable

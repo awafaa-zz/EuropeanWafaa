@@ -1,5 +1,5 @@
 ---
-title: 'Community Discussion &#8211; Part 6 Feedback'
+title: 'Community Discussion - Part 6 Feedback'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -15,13 +15,11 @@ tags:
 ---
 # 
 
-You have to grant me that I’m persistent ![;-)][1] 
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+You have to grant me that I’m persistent ;-)
 
 OK so this time round I thought I’d do a quick round up of some of the feedback that I’ve received so far – some of it has been in the form of comments on this here blog, others have been responses on mailing lists, and some has been from direct converstation with me.  I’d love to get more from you, and ultimately you get more from yourselves.
 
-The following is in no particular order, and if anyone has anything else to add then please let me know.  Also remember this is a discussion so feel free to discuss sensibly and calmly – usual flame ban is in place ![;-)][1] :
+The following is in no particular order, and if anyone has anything else to add then please let me know.  Also remember this is a discussion so feel free to discuss sensibly and calmly – usual flame ban is in place ;-) :
 
 1.  Still a lot of animosity between KDE & GNOME within openSUSE.
 2.  The Community Manager role is too focused on marketing, and not the Community.  People would like to see a more operational role, getting involved with the actual project.

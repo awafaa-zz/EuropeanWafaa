@@ -22,9 +22,7 @@ So further to my post on [a11y in openSUSE][1], I was asked how one would enabl
 
  [1]: http://www.wafaa.eu/entry/getting-opensuse-from-a-to-y-1-26.html "Getting openSUSE from A to Y"
 
-It may seem strange that I’m trying to champion a subject that I don’t really know, but that’s part of the reason **why** I’m doing so.  Accessibility isn’t supposed to a buzzword, it is meant to be a usable function for all.  Hopefully I can learn a bit along the way and get the message out there – oh and if you could do the same that would just be spiffy ![;-)][2] 
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+It may seem strange that I’m trying to champion a subject that I don’t really know, but that’s part of the reason **why** I’m doing so.  Accessibility isn’t supposed to a buzzword, it is meant to be a usable function for all.  Hopefully I can learn a bit along the way and get the message out there – oh and if you could do the same that would just be spiffy ;-)
 
 I present what I have found so far below in a simple little pictorial guide of how to get to the general a11y settings.  I have tried four desktops – GNOME, KDE, XFCE and LXDE, I couldn’t find anything in LXDE so I’ll try and revisit it later once I’ve had more time.
 

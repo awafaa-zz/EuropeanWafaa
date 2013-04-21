@@ -8,7 +8,7 @@ permalink: /storytelling-with-storytlr/
 dsq_thread_id:
   - 682165851
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - openSUSE
   - Server

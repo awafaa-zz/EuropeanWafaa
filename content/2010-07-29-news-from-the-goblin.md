@@ -17,13 +17,9 @@ tags:
 ---
 # 
 
-I thought I should let anyone that cares know what the latest status of my work is.  What work?  Getting MeeGo on openSUSE, of course!  I’m calling it Smeegol – SUSE MeeGo Linux, and this just happens to be the Teal Goblin – Teal is the code name for 11.3 ![;-)][1] 
+I thought I should let anyone that cares know what the latest status of my work is.  What work?  Getting MeeGo on openSUSE, of course!  I’m calling it Smeegol – SUSE MeeGo Linux, and this just happens to be the Teal Goblin – Teal is the code name for 11.3 ;-)
 
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
-
-Well I’m not quite there yet (unfortunately) ![:-(][2]   I have one major issue which is the Network Panel not displaying properly, and as such is difficult to use.  I also have a smaller issue with the web panel, but that is more of an annoyance rather than a blocker.
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_sad.gif
+Well I’m not quite there yet (unfortunately) :-(  I have one major issue which is the Network Panel not displaying properly, and as such is difficult to use.  I also have a smaller issue with the web panel, but that is more of an annoyance rather than a blocker.
 
 So in a nutshell that’s the state of play.  Now I’m concentrating on getting things working on 11.3 and getting a working image, but if people would like to see things get into openSUSE 11.4 then there are some low hanging fruit for people to pick up and run with.  In a nutshell before things can make it into Factory, the spec files need to be cleaned up and made to comply with the Geeko’s high standards.
 
@@ -38,6 +34,4 @@ Oh and if you want to try Smeegol as it stands now, warts and all, you can grab 
  [6]: http://download.opensuse.org/repositories/Meego:/Netbook/openSUSE_Factory/GoblinUI.ymp "Smeegol 1Click for Factory"
  [7]: https://bugzilla.novell.com/enter_bug.cgi?format=guided&classification=28&product=openSUSE 11.3&submit=Use This Product "Bugzilla at Novell"
 
-So please join in the fun and help clean up the Goblin ![:-)][8] 
-
- [8]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+So please join in the fun and help clean up the Goblin :-)

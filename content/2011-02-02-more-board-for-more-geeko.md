@@ -27,9 +27,7 @@ I also said that it was for 11.4/Factory only and that 11.3 was a WIP.  Well th
  [4]: http://blog.crozat.net/ "fcrozat - a crazy French man"
  [5]: http://blog.crozat.net/2011/01/gnome-3-live-cd-usb-test-image.html "GNOME3 Image for openSUSE"
 
-Yes, more people can have some of this cool shiny stuff. There is a but, and this is from upstream – it is still in development so you may loose a kitten or bunny, maybe even both ![;-)][6]  So come and join the fun and try it out, I’ve not generated a single .ymp file yet so click on your version of Geeko
-
- [6]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Yes, more people can have some of this cool shiny stuff. There is a but, and this is from upstream – it is still in development so you may loose a kitten or bunny, maybe even both ;-)  So come and join the fun and try it out, I’ve not generated a single .ymp file yet so click on your version of Geeko
 
 **11.3 -** [![the-board 1Click][8]][8]
 

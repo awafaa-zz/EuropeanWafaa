@@ -18,10 +18,9 @@ tags:
 ---
 # 
 
-So after many months of hard work, [Smeegol is out the door][1].  Now contrary to what some folk may think, this was \*NOT\* a one man show – far from it!  I may have spearheaded the whole affair, but I in no way can take credit for it all – that doesn’t mean I wouldn’t accept any of your fine donations ![;-)][2] 
+So after many months of hard work, [Smeegol is out the door][1].  Now contrary to what some folk may think, this was \*NOT\* a one man show – far from it!  I may have spearheaded the whole affair, but I in no way can take credit for it all – that doesn’t mean I wouldn’t accept any of your fine donations ;-)
 
  [1]: http://news.opensuse.org/2010/10/06/announcing-smeegol-1-0/ "Announcing Smeegol 1.0"
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
 
 I’d like to take this opportunity to thank many of the people that helped get this labour of love out the door.  Without them I most likely would still be floundering around, working out my backside from my elbow. This truely shows how great not just the openSUSE community is but also the wider open source & Linux community is in general.  So with out further delay, I’d like to thank the following people (in alphabetical order):
 

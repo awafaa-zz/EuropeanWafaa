@@ -8,7 +8,7 @@ permalink: /updated-site/
 dsq_thread_id:
   - 609627672
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Server
   - Software

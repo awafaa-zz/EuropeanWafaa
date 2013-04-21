@@ -19,9 +19,7 @@ tags:
 
 As many know, I have a few Android devices, and I know a lot of other openSUSE fans out there also have robot powered devices.  I decided the other day to try something during my lunch break – create a widget to show how many days left till 11.4′s release.
 
-Yeah I know it isn’t an earth shattering application, but I’m not a code monkey, so any working code I generate is a serious plus for me ![;-)][1] 
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Yeah I know it isn’t an earth shattering application, but I’m not a code monkey, so any working code I generate is a serious plus for me ;-)
 
 So my lunchtime project was inspired by the efforts of someone at Ubuntu who was doing the same for their Natty release.  I used this [tutorial][2] to help get me going.  I now present to you oSRCD – the openSUSE Release CountDown.
 
@@ -31,9 +29,7 @@ So my lunchtime project was inspired by the efforts of someone at Ubuntu who was
 
  [3]: http://lh4.ggpht.com/_ObpIMjebLDY/TTl9PbSdCmI/AAAAAAAAANY/5CdAgya0dXA/s640/oSRCD-GalaxyTab.png
 
-It isn’t perfect, but it is a start, so if there is anyone that is a bit more able in the ways of Android programming or artwork then please join in ![:-)][4] 
-
- [4]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+It isn’t perfect, but it is a start, so if there is anyone that is a bit more able in the ways of Android programming or artwork then please join in :-)
 
 You can grab the [source code][5] from github or the [.apk][6] for manual install. And as it’s a mobile app here’s the QR code:
 

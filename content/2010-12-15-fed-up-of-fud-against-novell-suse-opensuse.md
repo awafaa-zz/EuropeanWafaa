@@ -1,5 +1,5 @@
 ---
-title: 'Fed up of FUD against Novell, SUSE &#038; openSUSE'
+title: 'Fed up of FUD against Novell, SUSE & openSUSE'
 author: Andrew Wafaa
 layout: post
 kind: article

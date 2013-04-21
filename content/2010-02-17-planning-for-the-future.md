@@ -6,7 +6,7 @@ kind: article
 created_at: 2010-02-17
 permalink: /planning-for-the-future/
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Bongo
   - Community
