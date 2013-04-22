@@ -21,10 +21,9 @@ tags:
 ---
 # 
 
-I like to think of myself as being fairly consistent, and I’ve had one request for a long time, a desktop bug tracker client. I even [asked][1]  if someone more adept in the ways of The Code could help. Unfortunately my call for help wasn’t heard ![:-(][2] 
+I like to think of myself as being fairly consistent, and I’ve had one request for a long time, a desktop bug tracker client. I even [asked][1]  if someone more adept in the ways of The Code could help. Unfortunately my call for help wasn’t heard :-( 
 
  [1]: http://www.wafaa.eu/entry/bugging-bugs---a-call-for-help-1-20.html "Help needed for a fat bug tracker"
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_sad.gif
 
 That was until [HackWeek VI][3]  came along! Luckily [Matt Barringer][4] (from those crazy cooks in the [SUSE Studio][5] team) heard my call. He picked up his code machine gun and blasted away o/
 
@@ -32,16 +31,13 @@ That was until [HackWeek VI][3]  came along! Luckily [Matt Barringer][4] (f
  [4]: http://en.opensuse.org/User:Mbarringer "Znggo the Entomologist"
  [5]: http://susestudio.com/ "Appliances made easy"
 
-A few days after HackWeek VI ended he enlightened me to his new masterpiece – [Entomologist][6].  So what is it? As you may have guessed, it is a desktop bug tracker client.  It’s cutely written in Qt, isn’t final yet (is any software?) but works fairly well.  Why only fairly well? Simples, it only supports Bugzilla at the minute, but there are plans afoot to add others (please see the [ToDo][7] list). Once more bug backends are added it will be great (yes, this is a subtle hint for you to contribute code ![;-)][8] ). It is being put forward as one of the [GSOC][9] projects so fingers crossed ![;-)][8] 
+A few days after HackWeek VI ended he enlightened me to his new masterpiece – [Entomologist][6].  So what is it? As you may have guessed, it is a desktop bug tracker client.  It’s cutely written in Qt, isn’t final yet (is any software?) but works fairly well.  Why only fairly well? Simples, it only supports Bugzilla at the minute, but there are plans afoot to add others (please see the [ToDo][7] list). Once more bug backends are added it will be great (yes, this is a subtle hint for you to contribute code ;-) ). It is being put forward as one of the [GSOC][9] projects so fingers crossed ;-) 
 
  [6]: http://entomologist.sourceforge.net/ "Desktop bug tracker client"
  [7]: http://entomologist.sourceforge.net/#todo "what needs to be done"
- [8]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
  [9]: http://en.opensuse.org/openSUSE:GSOC_2011_Ideas#Cross_Platform_Bug_Tracker_Client "Part of openSUSE's submission"
 
-Of course you need some obligatory screenshots, so feast your eyes ![:-)][10] 
-
- [10]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+Of course you need some obligatory screenshots, so feast your eyes :-)
 
 ![Entomologist on the desktop][11]
 
@@ -59,7 +55,7 @@ Seeing your bugs on the move.
 
  
 
-Yes that’s right, entomologist works on Android!! Sure the UI is a bit butt ugly on the platform, but the app works ![;-)][8] 
+Yes that’s right, entomologist works on Android!! Sure the UI is a bit butt ugly on the platform, but the app works ;-)
 
 I’ll do a post on how I ported entomologist to Android shortly, it wasn’t too difficult.
 

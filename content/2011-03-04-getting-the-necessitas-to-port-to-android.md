@@ -19,7 +19,7 @@ tags:
 
 So as I mentioned [earlier][1] I managed to port [entimologist][2] to Android. This post will hopefully explain how I did this.
 
- [1]: http://www.wafaa.eu/entry/bug-tracking-with-the-help-of-an-entomologist-1-58.html "Bug Tracking With The Help Of An Entomologist"
+ [1]: http://andrew.wafaa.eu/2011/03/04/bug-tracking-with-the-help-of-an-entomologist.html "Bug Tracking With The Help Of An Entomologist"
  [2]: http://entimologist.sourceforge.net/ "Entomologist Bug Tracking Client"
 
 The shopping list for this task is relatively straight forward:
@@ -43,10 +43,9 @@ The shopping list for this task is relatively straight forward:
 
 First thing I had done was install and setup Eclipse, I then setup the Android SDK & Android NDK – that was done months ago. See the Android Developer site for good, clear instructions.
 
-For setting up Necessitas, I used Alessandro’s [post & video][11] as a guide, but there are also details on Necessitas’ site.  After following the steps, I couldnt quite get things working, and I was starting to think that GNOME3 and Qt, were being children and bickering. No, they weren’t. It was me being a dufus! I hadn’t read the bit about ant needing to be >=1.8.0 ![:-)][12] Download Ministro to somewhere safe (I popped mine in /opt/necessitas)
+For setting up Necessitas, I used Alessandro’s [post & video][11] as a guide, but there are also details on Necessitas’ site.  After following the steps, I couldnt quite get things working, and I was starting to think that GNOME3 and Qt, were being children and bickering. No, they weren’t. It was me being a dufus! I hadn’t read the bit about ant needing to be >=1.8.0 :-) Download Ministro to somewhere safe (I popped mine in /opt/necessitas)
 
  [11]: http://labs.qt.nokia.com/2011/02/28/necessitas/ "Clear instructions for Necessitas"
- [12]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
 
 So to get things to work, I un-installed the ant rpm, extracted the bibnary tarball into ~/bin, and did a `sudo ln -s ~/bin/apache-ant-1.8.2/bin/ant /usr/bin/ant`
 
@@ -125,12 +124,8 @@ In my case I did `readelf -d libentomologist.so` and got:
 
  
 
-It may seem obvious, but look at the ones that have (NEEDED) in them ![;-)][15] I was missing libQtXml.so. Simply add the missing Qt library either by adding it manually in $PROJECT_LOCATION > Other files > android > res > values > libs.xml, or simply tick the required one in Qt Creator by going to the Projects button on the left > Run > Package Configurations > Libraries tab
-
- [15]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+It may seem obvious, but look at the ones that have (NEEDED) in them ;-) I was missing libQtXml.so. Simply add the missing Qt library either by adding it manually in $PROJECT_LOCATION > Other files > android > res > values > libs.xml, or simply tick the required one in Qt Creator by going to the Projects button on the left > Run > Package Configurations > Libraries tab
 
 When testing your app, make sure you select “Install Ministro system wide qt shared libraries installer” from the Projects button on the left > Run > Deploy configurations, then select the .apk in the “Choose apk” button.
 
-Once that’s done, hit the “Play” button on the bottom left of Qt Creator and off you go ![:-)][12]  I appreciate it may seem like a lot of work, but honestly it isn’t that much. I buggered around for ages cursing, mainly because I hadn’t checked my version of ant and didnt read the error message being spat out. I also didn’t know about readelf -d.  All I need to work out and try now is publishing to the Market https://market.android.com/. So all in all have fun and keep being cute Qt ![:-D][16] 
-
- [16]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_biggrin.gif
+Once that’s done, hit the “Play” button on the bottom left of Qt Creator and off you go :-)  I appreciate it may seem like a lot of work, but honestly it isn’t that much. I buggered around for ages cursing, mainly because I hadn’t checked my version of ant and didnt read the error message being spat out. I also didn’t know about readelf -d.  All I need to work out and try now is publishing to the Market https://market.android.com/. So all in all have fun and keep being cute Qt :-D

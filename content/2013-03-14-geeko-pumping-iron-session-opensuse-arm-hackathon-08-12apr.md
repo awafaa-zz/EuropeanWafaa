@@ -1,5 +1,5 @@
 ---
-title: 'Geeko Pumping Iron Session &#8211; openSUSE ARM Hackathon 08-12Apr'
+title: 'Geeko Pumping Iron Session - openSUSE ARM Hackathon 08-12Apr'
 author: Andrew Wafaa
 layout: post
 kind: article

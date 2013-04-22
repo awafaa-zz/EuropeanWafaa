@@ -20,7 +20,7 @@ tags:
 
 So further to my post on [a11y in openSUSE][1], I was asked how one would enable Accessibility.  Now to be honest I only *kind of* know how to do it in GNOME, so I set off on a little exploration of the other desktop environments.
 
- [1]: http://www.wafaa.eu/entry/getting-opensuse-from-a-to-y-1-26.html "Getting openSUSE from A to Y"
+ [1]: http://andrew.wafaa.eu/2010/05/06/getting-opensuse-from-a-to-y.html "Getting openSUSE from A to Y"
 
 It may seem strange that I’m trying to champion a subject that I don’t really know, but that’s part of the reason **why** I’m doing so.  Accessibility isn’t supposed to a buzzword, it is meant to be a usable function for all.  Hopefully I can learn a bit along the way and get the message out there – oh and if you could do the same that would just be spiffy ;-)
 

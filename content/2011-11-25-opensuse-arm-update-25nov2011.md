@@ -36,15 +36,11 @@ Joop Boonen built u-boot and submitted it into the relevant devel project. So we
 
 I’ve been busy building hardware specific kernels, which I’m still learning how to do properly. As it stands we have kernels built for Freescale powered EfikaMXs, Texas Instruments powered Pandboards & Beagleboards, Nvidia powered Tegra2 devices (mainly Trimslice) and soon ST-Ericsson powered NovaThor devices like the Snowball.
 
-Work is still on going, one really good thing is Kiwi support for ARM is being worked on. Marcus Schaefer has rolled his sleeves up and is attacking it with gusto, and making good progress. It is by no means a done deal, yet. It does show though how versatile openSUSE’s toolsets are. Hopefully it won’t be too long until we can get things working, and hey maybe even get those fine folks in SUSE Studio to add ARM as an architecture so that we can have highly customised ARM builds ![:-)][1] 
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+Work is still on going, one really good thing is Kiwi support for ARM is being worked on. Marcus Schaefer has rolled his sleeves up and is attacking it with gusto, and making good progress. It is by no means a done deal, yet. It does show though how versatile openSUSE’s toolsets are. Hopefully it won’t be too long until we can get things working, and hey maybe even get those fine folks in SUSE Studio to add ARM as an architecture so that we can have highly customised ARM builds :-)
 
 As I also mentioned, the kernels aren’t perfect yet. So we still need to do more testing and fine tuning. One item that was identified (by Alex of course) was that we have an issue with unwinding. There is a “hack” identified to get things working but a proper fix is still being sought.
 
-We also have some exception handling issues which prevents us from builing Java and Java related apps which in turn are preventing us from building a lot of the remaining 1200 or so packages. We do still have some packages that need fixing which don’t require any of the exception crippled packages, so feel free to jump in ![;-)][2] 
-
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+We also have some exception handling issues which prevents us from builing Java and Java related apps which in turn are preventing us from building a lot of the remaining 1200 or so packages. We do still have some packages that need fixing which don’t require any of the exception crippled packages, so feel free to jump in ;-)
 
 There are some areas that still need some love on ARM, like hwinfo and also our darling YaST. X drivers are also a bit of a grey area, actually they’re more likely to be missing.
 

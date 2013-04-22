@@ -17,9 +17,7 @@ tags:
 
 I was asked the other day “What do you expect from the openSUSE Conference?” The simple answer is I only expect to have fun. Seriously, I expect nothing more, nothing less. I hope for a whole lot more, but I certainly don’t expect it.
 
-This may sound somewhat silly, but in all honesty that’s how I feel. This conference (as are most others) is a great way to meet the people you interact with online,  there’s something satisfying to be able to replace the digital person with a real flesh and blood person. You can thank someone in a real sincere way with a gift (could be a pint or something else) or slap them and let your anger out. Digital is pretty good, but having the physical is always better once in a while ![:-D][1] 
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_biggrin.gif
+This may sound somewhat silly, but in all honesty that’s how I feel. This conference (as are most others) is a great way to meet the people you interact with online,  there’s something satisfying to be able to replace the digital person with a real flesh and blood person. You can thank someone in a real sincere way with a gift (could be a pint or something else) or slap them and let your anger out. Digital is pretty good, but having the physical is always better once in a while :-D
 
 So if I take the original question and rephrase it to “What do you hope for from the openSUSE Conference?” then my answer at least for this year would be something along these lines:
 

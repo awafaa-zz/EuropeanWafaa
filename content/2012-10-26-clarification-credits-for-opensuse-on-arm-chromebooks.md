@@ -1,5 +1,5 @@
 ---
-title: 'Clarification &#038; Credits for openSUSE on ARM Chromebooks'
+title: 'Clarification & Credits for openSUSE on ARM Chromebooks'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -19,10 +19,9 @@ tags:
 ---
 # 
 
-After my [post][1] yesterday on getting openSUSE on the new ARM Chromebook, a lot of interest was generated with discussions on various forms of media – heck I even got Slashdotted (thanks ![:-)][2] ). I read some but not all of them and even the comments. One thing popped out to me, and I feel I need to clarify some things.
+After my [post][1] yesterday on getting openSUSE on the new ARM Chromebook, a lot of interest was generated with discussions on various forms of media – heck I even got Slashdotted (thanks :-) ). I read some but not all of them and even the comments. One thing popped out to me, and I feel I need to clarify some things.
 
- [1]: http://andrew.wafaa.eu/blog/geeko-goes-chrome/ "Geeko goes Chrome"
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+ [1]: http://andrew.wafaa.eu/2012/10/25/geeko-goes-chrome.html "Geeko goes Chrome"
 
 1.  Whilst I do indeed work for ARM, my device was a private purchase and not provided to me by my employer. Luckily as part of my role I am able to spend time doing fun things like getting openSUSE on the Chromebook.
 2.  I have never taken credit for doing all the hard work of working out what needed to be done to get openSUSE on the Chromebook, the hard work was done by Olof Johanssen as I mentioned. He wrote up some excellent steps that were very easy to follow. I and all other people interested in getting Linux on the Chromebook regardless of distro are indebted to Olof for his work.

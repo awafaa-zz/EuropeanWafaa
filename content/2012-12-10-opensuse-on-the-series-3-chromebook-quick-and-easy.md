@@ -1,5 +1,5 @@
 ---
-title: 'openSUSE on the Series 3 Chromebook &#8211; Quick and Easy'
+title: 'openSUSE on the Series 3 Chromebook - Quick and Easy'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -22,10 +22,9 @@ I have blogged about how to get [Linux on the Chromebook][1] in the past; and wh
  [1]: http://blogs.arm.com/software-enablement/848-running-linux-on-the-series-3-chromebook/ "Manual process to get Linux on the Chromebook"
  [2]: https://en.opensuse.org/HCL:ARMChromebook "Series 3 Chromebook on openSUSE's Wiki"
 
-If you have a Chromebook, please try it out and let us know how things work or don’t for you on IRC #opensuse-arm on Freenode and/or the [opensuse-arm][3] mailing list . Please take note of the known issues on the wiki page before shouting ![;-)][4] 
+If you have a Chromebook, please try it out and let us know how things work or don’t for you on IRC #opensuse-arm on Freenode and/or the [opensuse-arm][3] mailing list . Please take note of the known issues on the wiki page before shouting ;-) 
 
  [3]: http://lists.opensuse.org/ "openSUSE Mailing List Archive"
- [4]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
 
-**\*UPDATE\***  
+**\*UPDATE\***
 Some people asked about card/stick size to use. If you want to just use the JeOS image which is command line only, then the minimum size is 1GB, if however you wish to use the XFCE image or use JeOS and then install a DE on top then the real minimum would be 4GB. Thanks to Kiwi, the images are self extracting. This means that when you complete the first boot process it will use up all the space on your target media, so 4/8/16/32/64/128GB depending on what you have.

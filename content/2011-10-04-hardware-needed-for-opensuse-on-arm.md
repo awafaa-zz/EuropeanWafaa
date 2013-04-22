@@ -25,7 +25,7 @@ tags:
 
 As I [mentioned][2] before, we have an initial target platform identified for testing the work of all those involved in the openSUSE ARM port. The problem is we need to obtain the hardware.
 
- [2]: http://www.wafaa.eu/entry/target-arm-hardware-1-70.html "Target ARM hardware decision"
+ [2]: http://andrew.wafaa.eu/2011/09/30/target-arm-hardware.html "Target ARM hardware decision"
 
 I am in discussions trying to get some corporate sponsorship of hardware, but we can not rely soley on those kind companies that would like to see us succeed. We as a community need to help ourselves succeed, as such I’ve set up a [campaign][3] on Pledgie to enable us the community to contribute to the effort for obtaining hardware.
 

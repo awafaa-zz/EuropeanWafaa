@@ -1,5 +1,5 @@
 ---
-title: 'openSUSE ARM Update &#8211; 141011'
+title: 'openSUSE ARM Update - 141011'
 author: Andrew Wafaa
 layout: post
 kind: article
@@ -42,9 +42,7 @@ Ti in association with the PandaBoard community have kindly sponsored and are sh
 
 Thank you, this is a huge help.
 
-Now that we have some devices on our way it doesn’t mean we can sit back and relax, we still need more devices. Yes, I’m going to say it again – Please help the Geeko and donate as much or as little as you can (preferably not zero ![;-)][4] ).
-
- [4]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+Now that we have some devices on our way it doesn’t mean we can sit back and relax, we still need more devices. Yes, I’m going to say it again – Please help the Geeko and donate as much or as little as you can (preferably not zero ;-) ).
 
 [![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][6]][6]
 
@@ -64,12 +62,9 @@ So what else is new? Well openSUSE has managed to run on a couple of modern ARM 
 
  [8]: http://www.youtube.com/watch?v=FMziSoonpTU "Booting openSUSE on a Pandaboard via monitor/keyboard/serial"
 
-
-
-Michal Hrušecký [managed][9] to get openSUSE running on his ASUS Transformer Tablet (albeit in a chroot), he has also provided [information][10] on how to do this yourself if you’re feeling brave ![:)][11] 
+Michal Hrušecký [managed][9] to get openSUSE running on his ASUS Transformer Tablet (albeit in a chroot), he has also provided [information][10] on how to do this yourself if you’re feeling brave :-)
 
  [9]: http://michal.hrusecky.net/2011/10/opensuse-asus-transformer/ "Meet Optimus Geeko"
  [10]: http://michal.hrusecky.net/2011/10/opensuse-arm-chroot-less-then-alpha/ "Pre-Alpha Geeko chroot"
- [11]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
 
 We still don’t have anything that we can release yet, as we are still working to fix packages. We are fighting forward and we will succeed!!

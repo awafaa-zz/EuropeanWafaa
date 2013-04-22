@@ -15,9 +15,7 @@ tags:
 ---
 # 
 
-Unfortunately one of the down sides to the 21st Century is that most people have either been directly affected by or know someone close that has been directly affected by cancer; this is a beast that takes many shapes and forms. The mortality rate for the disease is coming down slowly, but the fact is people still die from it.  Unfortunately this is what happened to my mother-in-law last year ![:-(][1] 
-
- [1]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_sad.gif
+Unfortunately one of the down sides to the 21st Century is that most people have either been directly affected by or know someone close that has been directly affected by cancer; this is a beast that takes many shapes and forms. The mortality rate for the disease is coming down slowly, but the fact is people still die from it.  Unfortunately this is what happened to my mother-in-law last year :-(
 
 Jane was a wonderful woman that was completely focused on family, she was a true matriarch. She was loved and adored not just by her immediate family but also by the large extended family, especially the children where she had an almost magical way. It was a great shock when she passed away, especially as she had fought off breast cancer in the winter of 2010 and had made a pretty god recovery even if she had to have a mastectomy. Unfortunately the cancer returned with a vengeance in the spring of 2011 and attacked her brain and her liver, the latter was especially bad. She lost her battle after after only a short few months and passed away in the summer of 2011 at the young age of 59. She left a husband, three children and seven grandchildren as well as being an aunt and surrogate grandparent to many many more.
 

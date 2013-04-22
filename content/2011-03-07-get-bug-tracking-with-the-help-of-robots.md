@@ -16,7 +16,7 @@ tags:
 
 I [previously][1] enlightened people to [entomologist][2] and also showed an image or two of it running on Android. Well now’s the time to get your funk on and help test, file bugs and generally make it better.
 
- [1]: http://www.wafaa.eu/entry/bug-tracking-with-the-help-of-an-entomologist-1-58.html "Bug Tracking With The Help Of An Entomologist"
+ [1]: http://andrew.wafaa.eu/2011/03/04/bug-tracking-with-the-help-of-an-entomologist.html "Bug Tracking With The Help Of An Entomologist"
  [2]: http://entomologist.sourceforge.net/ "Open Source Cross Platform Bug Tracking Client"
 
 You can download entomologist from the [Android Market][3], or if you don’t have access to the Market you can grab the [.apk][4]. When you launch it for the first time it checks to see if you have the required Qt libraries, if not it will ask you to install [Ministro][5] (if not already installed) from the Market (grab the[.apk][6] if you don’t have the Market), once installed it then grabs the required libraries – probably best to be on a wifi connection rather than cellular just in case.

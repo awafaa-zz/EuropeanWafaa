@@ -22,7 +22,7 @@ To save me having to repeat myself constantly I’ll do a small disclaimer now:
 
 In my opinion this topic is linked to my previous post about the “[Planning For The Future][1]“.  The key here is to remain agile, able to flex, roll, bounce, jump and basically move with the times.  If we impose strict rigid requirements then things will start to crack and crumble.
 
- [1]: http://www.wafaa.eu/entry/planning-for-the-future-1-14.html "blog post on planning for the future"
+ [1]: http://andrew.wafaa.eu/2010/02/17/planning-for-the-future.html "blog post on planning for the future"
 
 So what do I see as key items needed to enable more community contributions, and get more non-Novellians involved in taking a more (pro)active role in the Project?
 

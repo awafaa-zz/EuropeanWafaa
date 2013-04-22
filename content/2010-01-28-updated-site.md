@@ -20,7 +20,7 @@ OK so I’ve finally got round to getting this domain back up after nuking the s
 
 As you can see (if you [visit directly][2] rather than through an rss reader) I am now running [Storytlr][3].  Basically I was in the mood for a change and as I use twitter a lot now I thought it best to just pull all my inane ramblings on the net into one place.
 
- [2]: http://www.wafaa.eu/ "European Wafaa"
+ [2]: http://andrew.wafaa.eu/ "European Wafaa"
  [3]: http://storytlr.googlecode.com/ "Storytlr's home page"
 
 For those that actually thought I had some useful content on my old blog don’t fret, you can still access it all either by using the search function on the new site or head over to my archive [here][4]. Enjoy!

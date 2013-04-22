@@ -18,10 +18,9 @@ tags:
 
 For those that aren’t subscribed to the openSUSE Project Mailinglist:
 
-As was [announced][1] last month, the Board is looking for some new blood. As such I intend to run for one of the available seats. Yes people, your lovable FunkyPenguin is hoping to be able to represent you and all your crazy ideas (I’ve got some of those myself ![;-)][2] ).
+As was [announced][1] last month, the Board is looking for some new blood. As such I intend to run for one of the available seats. Yes people, your lovable FunkyPenguin is hoping to be able to represent you and all your crazy ideas (I’ve got some of those myself ;-) ).
 
  [1]: http://lists.opensuse.org/opensuse-project/2011-10/msg00126.html "Announcing the openSUSE Board Election 2011"
- [2]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
 
 I know of a few other candidates that are running, and they’re fine upstanding folk of the openSUSE community. I believe you should think long and hard about who you would like to represent you.  The Board is in place for you, the community, and as such it is up to you to say whom you would like to represent you.
 

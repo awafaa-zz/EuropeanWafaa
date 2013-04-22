@@ -31,9 +31,9 @@ I’ve had a discussion with several people about target hardware, and I’ve al
 
 There were three devices in the running, all are classed as development boards – so no case or external prettyness (beauty comes from within anyway):
 
-[TI PandaBoard][2]  
-[Samsung Origen][3]  
-[ST Ericsson Snowball][4]
+* [TI PandaBoard][2]
+* [Samsung Origen][3]
+* [ST Ericsson Snowball][4]
 
  [2]: http://www.pandaboard.org/ "TI's PanadaBoard"
  [3]: http://www.origenboard.org/ "Samsung's Origen Board"

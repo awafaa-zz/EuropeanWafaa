@@ -19,7 +19,7 @@ tags:
 ---
 # 
 
-There is now \*real\* hardware from ARM’s partners that offers the ability to leverage hardware virtualisation, in a similar fashion to Intel and AMD. So far three devices are shipping to the general public – the new [Series 3 Chromebook][1], the [Nexus 10][2] and the [Arndale board][3]. They all have one key factor in common, the [Samsung Exynos5][4] SoC. This fine piece of silicon is a member of the Cortex-A15 family which introduces the required virtualisation extensions.
+There is now **\*real\*** hardware from ARM’s partners that offers the ability to leverage hardware virtualisation, in a similar fashion to Intel and AMD. So far three devices are shipping to the general public – the new [Series 3 Chromebook][1], the [Nexus 10][2] and the [Arndale board][3]. They all have one key factor in common, the [Samsung Exynos5][4] SoC. This fine piece of silicon is a member of the Cortex-A15 family which introduces the required virtualisation extensions.
 
  [1]: http://www.samsung.com/uk/consumer/pc-peripherals/chrome-devices/chrome-devices/XE303C12-A01UK "ARM powered Chromebook"
  [2]: https://play.google.com/store/devices/details?id=nexus_10_16gb&feature=nexus10_campaign "Google Nexus 10"
@@ -36,6 +36,4 @@ Luckily openSUSE managed to get hold of an Arndale board last month, and Alex Gr
 
  [6]: http://youtu.be/SL313KEYQCc "Screencast of KVM running on an Arndale"
 
-It isn’t perfect as the guest kernel is missing DEVTMPFS support, and some of the KVM tools are missing; these are being worked on so the future will be bright ![;-)][7] 
-
- [7]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+It isn’t perfect as the guest kernel is missing DEVTMPFS support, and some of the KVM tools are missing; these are being worked on so the future will be bright ;-)

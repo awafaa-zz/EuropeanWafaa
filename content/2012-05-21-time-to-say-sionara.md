@@ -25,6 +25,4 @@ I’m no longer going to be based from home, but will be based out of the fine c
 
  [2]: http://www.arm.com/ "The architecture for the digital world"
 
-Until then, have a lot of fun folks ![:-)][3] 
-
- [3]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+Until then, have a lot of fun folks :-)

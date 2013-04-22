@@ -24,8 +24,6 @@ Earlier this week, some of the fine chaps over at Geeko Central managed to get t
 
  [2]: http://solid-run.com/products/cubox "CuBox by SolidRun"
 
-Hannes Reinecke who wrestled things into shape has submitted several patches back to SolidRun to help try and improve things, remember folks openSUSE is inclusive and we like to give back ![;-)][3] As for installing it on your own CuBox, at present there is no pre-built image, but that is coming – honest. We just need to wait for the new kernel-cubox to filter through and then we can ask kiwi to do its magic.
+Hannes Reinecke who wrestled things into shape has submitted several patches back to SolidRun to help try and improve things, remember folks openSUSE is inclusive and we like to give back ;-) As for installing it on your own CuBox, at present there is no pre-built image, but that is coming – honest. We just need to wait for the new kernel-cubox to filter through and then we can ask kiwi to do its magic.
 
- [3]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
-
-This now means we have openSUSE running on a wide variety of ARMv7 powered devices – Pandaboard family, Beagleboard family, Snowball, EfikaMX family & AC100. Next up is the Origen board hopefully ![;-)][3] .
+This now means we have openSUSE running on a wide variety of ARMv7 powered devices – Pandaboard family, Beagleboard family, Snowball, EfikaMX family & AC100. Next up is the Origen board hopefully ;-)

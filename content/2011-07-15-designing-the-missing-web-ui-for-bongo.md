@@ -39,15 +39,11 @@ Just to be clear Bongo is not aimed at the “Groupware” market, so it isn’t
 
 As I mentioned we have a fairly stable backend that provides email and calendaring, but the only way of interfacing with it is via a fat client (evolution, thunderbird, kmail, etc) – I use it at home. What we need is a way of getting to it via a browser. The aim of my BoF proposal is to discuss ways of meeting that requirement, what technologies could and maybe should be used, going through pros & cons and getting people interested in e-mail & calendaring and web design involved.
 
-As a project we have some ideas on technologies used, but at the end of the day this whole web joojoo is kind of out of developer’s field, so if one of you hipster hackers has a better idea and implements it then who are we to argue ![;-)][4] As an example we kind of like the idea of HTML5 but we don’t have to be limited to that, at the end of the day we want a clean simple and functional UI – both user and admin. We have a blank canvas so anything goes.
-
- [4]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_wink.gif
+As a project we have some ideas on technologies used, but at the end of the day this whole web joojoo is kind of out of developer’s field, so if one of you hipster hackers has a better idea and implements it then who are we to argue ;-) As an example we kind of like the idea of HTML5 but we don’t have to be limited to that, at the end of the day we want a clean simple and functional UI – both user and admin. We have a blank canvas so anything goes.
 
 As Bongo can be a distributed solution it would also be great if the Web UI could be re-used in a way similar to Roundcube or Squirrelmail, Meaning you could use it as a generic web based MUA hooking into almost any mail server. This isn’t mandatory but a “would be nice to have” type feature. Initially we would be looking at something that provides core functionality – email, calendaring & contacts – but can be extended via a plugin system maybe. Again that’s just a thought.
 
-Hopefully we can get some real traction going and maybe after the BoF we can start to do some hacking on it ![:-)][5] It would be absolutely awesome if by the end of the conference we had the beginings of a beautiful product.
-
- [5]: http://andrew.wafaa.eu/blog/wp-includes/images/smilies/icon_smile.gif
+Hopefully we can get some real traction going and maybe after the BoF we can start to do some hacking on it :-) It would be absolutely awesome if by the end of the conference we had the beginings of a beautiful product.
 
 So please [register][6] for the conference and join in the fun.
 

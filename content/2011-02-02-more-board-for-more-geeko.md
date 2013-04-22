@@ -20,7 +20,7 @@ I have packaged up the latest and greatest release (0.1.1.1) of [the-board][1]f
 
  [1]: http://live.gnome.org/TheBoardProject "The Board project"
  [2]: http://lucasr.org/ "lucas rat mundo"
- [3]: http://www.wafaa.eu/entry/the-board---packaged-for-your-pleasure-1-50.html "The Board - packaged for your pleasure"
+ [3]: http://andrew.wafaa.eu/2011/01/18/the-board-packaged-for-your-pleasure.html "The Board - packaged for your pleasure"
 
 I also said that it was for 11.4/Factory only and that 11.3 was a WIP.  Well the progress is complete (with huge help from [Frederic Crozat][4], and his great [GNOME3][5] repo).
 

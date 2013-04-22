@@ -15,7 +15,7 @@ tags:
 
 It’s been a couple of weeks since my [first Discussion with the Community][1], so as a follow on I thought I would cover the topic of Tools for the community.  In my mind I split tools into two groups – hard & soft.  What I mean by this is “hard” = infrastructure based, and “soft” = software based.
 
- [1]: http://www.wafaa.eu/entry/community-discussion---part1-1-19.html "Community Discussion - Part 1"
+ [1]: http://andrew.wafaa.eu/2010/03/09/community-discussion-part1.html "Community Discussion - Part 1"
 
 Some may seem pretty obvious to you, and some may seem like they aren’t tools at all.  So to clarify what my definition of a tool is – something that enables or facilitates the completion of a task.  So that gives the “Tool” a pretty big scope :-) 
 
