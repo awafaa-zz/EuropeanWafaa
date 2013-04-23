@@ -35,6 +35,7 @@ For me it was great to meet so many old friends, and some new ones. I'd like to 
 * Lars Vogdt and team for maintanence & support of the hardware
 * Luc Verhagen for being a bad influence and trying to get us all to party **every** night
 * Egbert Eich for looking at the scary situation of ARM related Xorg stuff
+* Marcus Schäfer for al the kiwi and Origen work
 * Alex Graf for so much low level grunt work that without whom we wouldn't be in the current state
 * SUSE for sponsoring both the location & accomodation and also for the occaisional breakfast and lunch
 
