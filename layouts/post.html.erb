@@ -21,6 +21,14 @@
       <%= @item[:location] %> &middot; <%= @item[:created_at] %>
     </div>
 
+    <div class="title">
+      <p><%=(@item[:title])%></p>
+    </div>
+
+    <%= yield %>
+
+    <div class="up">&uArr; <a href="#home">Back to top</a></div>
+
     <div class="categories">
       <p>Categories: <%= link_categories(@item[:categories]).join(', ') %></p>
     </div>
@@ -28,10 +36,6 @@
     <div class="tags">
       <p>Tags: <%= link_tags(@item[:tags]).join(', ') %></p>
     </div>
-
-    <%= yield %>
-
-    <div class="up">&uArr; <a href="#home">Back to top</a></div>
 
     <div class="footer group">
       <ul class="nav">
