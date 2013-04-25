@@ -32,25 +32,25 @@ For **GNOME:**
 
 ![Step 1 to enable a11y on GNOME][3]
 
- [3]: http://www.wafaa.eu/images/a11y/EnableGNOMEa11y-1.png
+ [3]: ../../../images/a11y/EnableGNOMEa11y-1.png
 
 2. Then under the “Personal” section, select “Assistive Technologies”
 
 ![Step 2 to enable a11y on GNOME][4]
 
- [4]: http://www.wafaa.eu/images/a11y/EnableGNOMEa11y-2.5.png
+ [4]: ../../../images/a11y/EnableGNOMEa11y-2.5.png
 
 3. Select “Enable assitive technologies”
 
 ![Step 3 to enable a11y on GNOME][5]
 
- [5]: http://www.wafaa.eu/images/a11y/EnableGNOMEa11y-3.png
+ [5]: ../../../images/a11y/EnableGNOMEa11y-3.png
 
 4. When you enable assitive technologies you need to restart your session for the changes to take effect.  You can easily do this by selecting the “Close and Log Out” button at the bottom of the window
 
 ![Step 4 to enable a11y on GNOME][6]
 
- [6]: http://www.wafaa.eu/images/a11y/EnableGNOMEa11y-4.png
+ [6]: ../../../images/a11y/EnableGNOMEa11y-4.png
 
 For **KDE:**
 
@@ -58,13 +58,13 @@ For **KDE:**
 
 ![Step 1 to enable a11y on KDE][7]
 
- [7]: http://www.wafaa.eu/images/a11y/EnableKDEa11y-1.png
+ [7]: ../../../images/a11y/EnableKDEa11y-1.png
 
 2. In the “Personal” section select “Accessibility”
 
 ![Step 2 to enable a11y on KDE][8]
 
- [8]: http://www.wafaa.eu/images/a11y/EnableKDEa11y-2.5.png
+ [8]: ../../../images/a11y/EnableKDEa11y-2.5.png
 
 For **XFCE**:
 
@@ -72,7 +72,7 @@ For **XFCE**:
 
 ![Step 1 to enable a11y on XFCE][9]
 
- [9]: http://www.wafaa.eu/images/a11y/EnableXFCEa11y-1.5.png
+ [9]: ../../../images/a11y/EnableXFCEa11y-1.5.png
 
 Like I said this is just a very quick guide on how to do it.  I’m very sure there are more settings to deal with, especially in KDE but I don’t know them (yet).  If you do then please shout out and help.
 

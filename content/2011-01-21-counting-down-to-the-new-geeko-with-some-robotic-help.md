@@ -36,6 +36,5 @@ You can grab the [source code][5] from github or the [.apk][6] for manual in
  [5]: https://github.com/awafaa/opensusereleasecountdown "oSRCD git repo"
  [6]: https://github.com/downloads/awafaa/opensusereleasecountdown/oSRCD.apk "oSRCD binary"
 
-[![oSRCD QR Code][8]][8]
-
- []: https://github.com/downloads/awafaa/opensusereleasecountdown/oSRCD.apk
+![oSRCD QR Code][8]
+ [8]: https://chart.googleapis.com/chart?cht=qr&chs=300x300&chl=https://github.com/downloads/awafaa/opensusereleasecountdown/oSRCD.apk
