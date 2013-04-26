@@ -29,10 +29,12 @@ I also said that it was for 11.4/Factory only and that 11.3 was a WIP.  Well th
 
 Yes, more people can have some of this cool shiny stuff. There is a but, and this is from upstream – it is still in development so you may loose a kitten or bunny, maybe even both ;-)  So come and join the fun and try it out, I’ve not generated a single .ymp file yet so click on your version of Geeko
 
-**11.3 -** [![the-board 1Click][8]][8]
+**11.3 -** [![the-board 1Click][8]][9]
 
- []: http://software.opensuse.org/ymp/home:FunkyPenguin:the-board/openSUSE_11.3/the-board.ymp?base=openSUSE:11.3&query=the-board "1 Click install of the-board on openSUSE 11.3"
+ [8]: ../../../images/1-click.png
 
-**11.4/Factory -**  [![the-board 1 click][9]][9]
+ [9]: http://software.opensuse.org/ymp/home:FunkyPenguin:the-board/openSUSE_11.3/the-board.ymp?base=openSUSE:11.3&query=the-board "1 Click install of the-board on openSUSE 11.3"
 
- []: http://software.opensuse.org/ymp/home:FunkyPenguin:the-board/openSUSE_Factory/the-board.ymp?base=openSUSE:Factory&query=the-board "1 Click install of the-board on openSUSE 11.4/Factory"
+**11.4/Factory -**  [![the-board 1 click][8]][10]
+
+ [10]: http://software.opensuse.org/ymp/home:FunkyPenguin:the-board/openSUSE_Factory/the-board.ymp?base=openSUSE:Factory&query=the-board "1 Click install of the-board on openSUSE 11.4/Factory"

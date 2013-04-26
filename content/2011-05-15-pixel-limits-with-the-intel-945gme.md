@@ -8,7 +8,7 @@ permalink: /pixel-limits-with-the-intel-945gme/
 dsq_thread_id:
   - 607101218
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Display
   - GNOME

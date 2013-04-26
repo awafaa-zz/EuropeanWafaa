@@ -8,7 +8,7 @@ permalink: /meeting-the-incas-in-memory-of-jane-morffew/
 dsq_thread_id:
   - 610610586
 categories:
-  - Uncategorized
+  - Family
 tags:
   - Cancer
   - Donation

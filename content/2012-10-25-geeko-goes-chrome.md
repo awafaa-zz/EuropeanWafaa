@@ -23,7 +23,7 @@ I was lucky enough to get into work today to have a lovely package waiting for m
 
 ![New ARM powered Chromebook][2]
 
- [2]: https://lh4.googleusercontent.com/-DU2h_NAGb0s/UIjtNzL9o1I/AAAAAAAAAj0/KUT53k2QoT0/s1068/2012 - 1 "New ARM powered Chromebook"
+ [2]: https://lh4.googleusercontent.com/-DU2h_NAGb0s/UIjtNzL9o1I/AAAAAAAAAj0/KUT53k2QoT0/s1068/2012+-+1 "New ARM powered Chromebook"
 
 I ordered it specifically to have a good mobile ARM development platform. So after having used the bundled ChromeOS for the first half of the day I decided it was time to get this machine’s Geeko on. Thankfully one of the Google employed developers , Olof Johansson, was kind enough to post his [steps][3] to get Linux on the machine. So after my meetings were done, I [downloaded][4] the openSUSE 12.2 RC1 JeOS image and followed Olof’s steps. Everything worked a treat and it was an exceptionally painless process, and proof is in the blurry cam :-) 
 
@@ -32,6 +32,6 @@ I ordered it specifically to have a good mobile ARM development platform. So aft
 
 ![openSUSE running on the Chromebook][6]
 
- [6]: https://lh4.googleusercontent.com/-fPsB-WRyE0A/UIlcOPHzALI/AAAAAAAAAlA/JQFSh0fc6oQ/s1068/2012 - 1 "openSUSE running on the Chromebook"
+ [6]: https://lh4.googleusercontent.com/-fPsB-WRyE0A/UIlcOPHzALI/AAAAAAAAAlA/JQFSh0fc6oQ/s1068/2012+-+1 "openSUSE running on the Chromebook"
 
 I now need to connect to a suitable network so that I can try out some of the desktop environments, and see how well things work.

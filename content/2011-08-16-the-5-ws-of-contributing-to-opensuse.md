@@ -18,9 +18,10 @@ tags:
 ---
 # 
 
-[![Going to openSUSE Conference 2011][2]][2]
+[![Going to openSUSE Conference 2011][1]][2]
 
- []: http://conference.opensuse.org/ "openSUSE Conference 2011"
+ [1]: http://static.opensuse.org/promo/osc2011/banner/square-badge.png
+ [2]: http://conference.opensuse.org/ "openSUSE Conference 2011"
 
 I’m going to be holding a Bof at the openSUSE Conference all about the 5 Ws of contributing to openSUSE. WTF is it about? Well I’m glad you asked (I don’t care if you didn’t ask, because I’m going to tell you anyway ;-) )
 
@@ -32,6 +33,7 @@ The key factor to this BoF session is audience participation, with out you the c
 
 So please come along and join in the discussion :-)
 
-[![Register for oSC11][5]][5]
+[![Register for oSC11][5]][6]
 
- []: http://conference.opensuse.org/indico//confRegistrationFormDisplay.py/display?confId=2 "Register for oSC11"
+ [5]: ../../../images/register.png "Register for oSC11"
+ [6]: http://conference.opensuse.org/indico//confRegistrationFormDisplay.py/display?confId=2 "Register for oSC11"

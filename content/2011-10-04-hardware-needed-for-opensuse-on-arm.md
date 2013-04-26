@@ -35,6 +35,6 @@ With these funds, we the community will be able to purchase 5 (maybe more) Panda
 
 So please help us to help you, donate what you can so that we can reach our goal of €1,000.
 
-[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][5]][5]
+[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][3]][4]
 
- []: http://www.pledgie.com/campaigns/16098
+ [4]: http://www.pledgie.com/campaigns/16098.png?skin_name=chrome

@@ -9,7 +9,7 @@ dsq_thread_id:
   - 698541351
 categories:
   - ARM
-  - Open Source
+  - OpenSource
 tags:
   - Change
   - Fujitsu

@@ -42,22 +42,22 @@ I could end my ramblings on a high, but that wouldn’t be cricket now ;-) So wh
 
 Now I know this post is a bit dry on eye candy, but I genuinely didn’t many photos, and those that I did take were utter rubbish. So I shall link so some other Geeko’s photos instead:
 
-[Max Lin’s Album][5]
+Max Lin’s [Album][5]
 
  [5]: https://picasaweb.google.com/115841515393036733761/GermanTrip2011 "Max Lin's German Trip 2011"
 
-[Pascal Blesser’s Album][6]
+Pascal Blesser’s [Album][6]
 
  [6]: https://picasaweb.google.com/117680951975244630647/OpenSUSEConference2011 "Yaloki's openSUSE Conference 2011"
 
-[Bo Maryniuk’s Album][7]
+Bo Maryniuk’s [Album][7]
 
  [7]: http://www.flickr.com/photos/marblebutterfly/sets/72157627532966563 "RWX³"
 
-[Andreas Jaeger’s Album][8]
+Andreas Jaeger’s [Album][8]
 
  [8]: http://ajaeger.smugmug.com/Events/osc11/ "AJ's oSC11"
 
-[Bruno Friedman’s Album][9]
+Bruno Friedman’s [Album][9]
 
  [9]: http://picasaweb.google.com/106984497522620355261/OpenSUSEConference2011Nuremberg?authuser=0&feat=directlink "tigerfoot's openSUSE Conference 2011 Nuremberg"

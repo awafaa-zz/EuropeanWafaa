@@ -52,6 +52,6 @@ So if you’re interested and aren’t afraid of getting your hands dirty (or oc
 
  [3]: http://pledgie.com/campaigns/16098 "openSUSE ARM hardware pledge"
 
-[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][5]][5]
+[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][4]][3]
 
- []: http://www.pledgie.com/campaigns/16098
+ [4]: http://www.pledgie.com/campaigns/16098.png?skin_name=chrome

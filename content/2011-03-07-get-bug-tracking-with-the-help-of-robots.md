@@ -26,10 +26,6 @@ You can download entomologist from the [Android Market][3], or if you don’t h
  [5]: https://sourceforge.net/p/necessitas/ministro/home/ "Qt libraries for Android"
  [6]: http://sourceforge.net/projects/ministro.necessitas.p/files/Ministro-1.0.apk/download "Manually install Ministro"
 
-![entomologist QR code for Market][7]
-
- [7]: http://www.forcev.net/assets/Uploads/entomologist-qr.png "Scan the image to install entomologist"
-
 I know the UI isn’t the best for mobiles – it works fairly well on my GalaxyTab thanks to the large screen & higher resolution. Reason for releasing now is so people can contribute ideas/code/bugs/etc.
 
 If there are any UI designers bored and fancy a little piece of fun, then please join in – I’m not looking at anyone in particular, [Mr LeSage][8] & [Mr Fitzsomon][9] ;-P

@@ -39,4 +39,4 @@ As everyone likes videos, Joop has created another great [video][4] showing op
  [4]: http://www.youtube.com/watch?v=s7iG06hJzGI
  [5]: https://plus.google.com/113898425601074911439/posts/2DmvCRCWCyP?hl=en-GB
 
-Just to remind you that you will be able to see first hand some of the ARM porting goodness at FOSDEM in Febuary so make sure you come along ![;-)][3] Till the next update, have a fun and Geeko filled time.
+Just to remind you that you will be able to see first hand some of the ARM porting goodness at FOSDEM in Febuary so make sure you come along ;-) Till the next update, have a fun and Geeko filled time.

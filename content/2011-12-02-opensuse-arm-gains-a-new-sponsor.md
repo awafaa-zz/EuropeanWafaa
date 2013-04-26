@@ -40,6 +40,7 @@ In addition to that, thanks to the community’s donations, we have also obtaine
 
 We are cracking on with getting things working, and even have openSUSE running natively on a few devices, although there are some very rough edges at the moment.
 
-[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][6]][6]
+[![Click here to lend your support to: openSUSE ARM Hardware and make a donation at www.pledgie.com !][5]][6]
 
- []: http://www.pledgie.com/campaigns/16098
+ [5]: http://www.pledgie.com/campaigns/16098.png?skin_name=chrome
+ [6]: http://www.pledgie.com/campaigns/16098
