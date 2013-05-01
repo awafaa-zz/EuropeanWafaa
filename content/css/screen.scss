@@ -206,7 +206,7 @@ ins:after {
   list-style-type: none;
 }
 
-.rss, .github, .twitter {
+.rss, .github, .twitter, .googleplus, .facebook {
   background: url('../images/sprites.png');
   display: block;
   height: 32px;
@@ -214,28 +214,24 @@ ins:after {
   text-indent: -9999px;
 }
 
+.twitter {
+  background-position: -0px 0;
+}
+
+.googleplus {
+  background-position: -50px 0;
+}
+
 .github {
-  background-position: -84px 0;
+  background-position: -100px 0;
+}
+
+.facebook {
+  background-position: -150px 0;
 }
 
 .rss {
-  background-position: -248px 0;
-}
-
-.twitter {
-  background-position: -412px 0;
-}
-
-.github:hover, .github:focus {
-  background-position: -2px 0;
-}
-
-.rss:hover, .rss:focus {
-  background-position: -166px 0;
-}
-
-.twitter:hover, .twitter:focus {
-  background-position: -330px 0;
+  background-position: -200px 0;
 }
 
 .cloud {
