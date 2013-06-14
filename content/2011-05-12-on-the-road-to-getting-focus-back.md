@@ -8,7 +8,7 @@ permalink: /on-the-road-to-getting-focus-back/
 dsq_thread_id:
   - 728214783
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Focus
 ---

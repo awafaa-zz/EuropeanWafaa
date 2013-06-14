@@ -8,7 +8,7 @@ permalink: /update-to-europeanwafaa/
 dsq_thread_id:
   - 580281823
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Server
   - Software

@@ -8,7 +8,7 @@ permalink: /beer-tech-people-but-mostly-fun/
 dsq_thread_id:
   - 1096472506
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Conference
   - FOSDEM

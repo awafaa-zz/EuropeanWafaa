@@ -9,7 +9,7 @@ dsq_thread_id:
   - 839441556
 categories:
   - ARM
-  - Open Source
+  - OpenSource
   - openSUSE
 tags:
   - Conference

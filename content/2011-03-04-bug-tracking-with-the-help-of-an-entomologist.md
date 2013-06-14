@@ -8,7 +8,7 @@ permalink: /bug-tracking-with-the-help-of-an-entomologist/
 dsq_thread_id:
   - 639907989
 categories:
-  - Open Source
+  - OpenSource
 tags:
   - Android
   - Bugs

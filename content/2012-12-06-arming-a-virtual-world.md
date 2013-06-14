@@ -9,7 +9,7 @@ dsq_thread_id:
   - 961006475
 categories:
   - ARM
-  - Open Source
+  - OpenSource
   - openSUSE
 tags:
   - Arndale

@@ -9,7 +9,7 @@ dsq_thread_id:
   - 952812431
 categories:
   - Android
-  - Open Source
+  - OpenSource
 tags:
   - Code
   - Packaging
