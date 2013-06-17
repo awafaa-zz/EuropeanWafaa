@@ -40,5 +40,5 @@ As part of the move I've also rejigged URLs etc, so if you crazily had my blog b
 
 [![openSUSE Conference 2013][11]][12] [![I'm Going to oSC13][13]][12]
  [11]: ../../../images/osc13logo400x283.png 
- [12]: http:/conference.opensuse.org "openSUSE Conference 2013, 18-22 July, Thessaloniki, Greece"
+ [12]: http://conference.opensuse.org "openSUSE Conference 2013, 18-22 July, Thessaloniki, Greece"
  [13]: ../../../images/go-osc13_200x200.png
