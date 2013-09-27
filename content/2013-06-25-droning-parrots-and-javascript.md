@@ -29,6 +29,8 @@ I was fortunate enough to get a present for surviving another year of life, a sh
  [5]: http://nodecopter.com/ "NodeCopter"
 This is the first time I've really looked at [node.js][6], and it is actually a pretty powerful framework. Laurent and co have done a fabulous job at hooking into the APIs that are exposed by the AR.Drone2.0. 
 
+ [6]: http://nodejs.org/ "Server based JavaScript"
+
 [![openSUSE Conference 2013][11]][12] [![I'm Going to oSC13][13]][12]
  [11]: ../../../images/osc13logo400x283.png 
  [12]: http://conference.opensuse.org "openSUSE Conference 2013, 18-22 July, Thessaloniki, Greece"
