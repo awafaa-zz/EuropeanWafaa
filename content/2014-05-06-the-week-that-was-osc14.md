@@ -61,7 +61,7 @@ One thing we weren't short of this year was photographs, here's a few albums for
 
 * [Collection of photos on Google+](https://plus.google.com/u/0/events/gallery/c8v2n62kf4dqqt2odqb1aub88fg?sort=4)  
 * Morgane Marquis: [1](https://plus.google.com/u/0/photos/106984497522620355261/albums/6008421436982084161) / [2](https://plus.google.com/u/0/photos/106984497522620355261/albums/6008462953741075105)  
-* [Marcel Kluhorn](https://plus.google.com/u/0/photos/108718233942351741601/albums/6007678955664150753)  
+* [Marcel Kühlhorn](https://plus.google.com/u/0/photos/108718233942351741601/albums/6007678955664150753)  
 * Greekos: [1](https://plus.google.com/u/0/photos/113385548251515365143/albums/6006520096539960049) / [2](https://plus.google.com/u/0/photos/113385548251515365143/albums/6006690402227103793) / [3](https://plus.google.com/u/0/photos/113385548251515365143/albums/6007256154661390481) / [4](https://plus.google.com/u/0/photos/113385548251515365143/albums/6007500051458466577)
 * [Collection of photos on Flickr](https://www.flickr.com/search/?q=osc14)
 * [Krešimir Kroflin](https://plus.google.com/u/0/photos/105838531205135016920/albums/6009872209527221489)
