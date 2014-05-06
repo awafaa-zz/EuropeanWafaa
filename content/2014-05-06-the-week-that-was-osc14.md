@@ -3,7 +3,7 @@ title: The Week that was oSC14
 author: Andrew Wafaa
 layout: post
 kind: article
-created_at: 2014-05-01
+created_at: 2014-05-06
 permalink: /the-week-that-was-osc14/
 categories:
   - openSUSE
@@ -31,6 +31,16 @@ So it was all rosey, right? Well, not quite... Unfortunately we didn't have as m
 
 There was a good selection of talks, ranging from high level overview style to low level plumbing. With sufficient content to fill the schedule up. Slides from my two talks are available (PDF) [ARMing Open Source][S1] and [ARM based Data Center][S2]. 
 
+I appear to have gotten in the habit of ending up in various states of undress at conferences this year and oSC14 was no different. After many people pleaded with me to ensure I remained fully clothed (sorry darix et al) I ended up creating a Speedo Geeko, thanks Oliver for the speedos and Robert for applying the rear decals :-)  
+
+![Speedo Geeko front][B]
+![Speedo Geeko decal application][C]
+![Speedo Geeko rear][D]
+
+ [B]: https://lh6.googleusercontent.com/-yzV-HI_QlYU/U11QtpRD4ZI/AAAAAAAAI2U/bEJ9Y4lDrpo/w505-h673-no/2014+-+1
+ [C]: https://lh3.googleusercontent.com/-DkoRsKUCOEc/U14RB59lJrI/AAAAAAAAH_U/_ZymPMWnLMk/w449-h673-no/DSC_0211.JPG
+ [D]: https://lh4.googleusercontent.com/-SnjMytT_5Yo/U14RCbugJvI/AAAAAAAAH_Y/mx4cj3YF06c/w449-h673-no/DSC_0213.JPG
+ 
 One thing I would like to see in the future is that if we advertise the event starting on a specific date, then that's when the event starts - not the pre event drinks. Sure the drinks/nibbles event is important but it should not be part of the schedule, look at how FOSDEM do it - event is Sat + Sun that is what's advertised on the schedule. The all important Beer Event is advertised seperately. Another nit pick is that it would be good to have a social area, at oSC13 there was an area with tables and chairs, which was a great place to socialise. There was plenty of socialising this year but it was somewhat disjointed with people drifting here and there rather than having a hub of socialising.  
 
 [1]: http://sprstacic.wordpress.com/ "Svebor's Blog"
@@ -44,8 +54,8 @@ One thing I would like to see in the future is that if we advertise the event st
 
 This year I was quite please to have been able to work with colleagues to get a simple but effective giveaway, hopefully we can provide similar giveaways to other events and communities:
 
-![ARM & openSUSE sticker][B]
-[B]: ../../../images/ARMoSsticker.png
+![ARM & openSUSE sticker][E]
+[E]: ../../../images/ARMoSsticker.png
 
 One thing we weren't short of this year was photographs, here's a few albums for you to browse:
 
