@@ -1,0 +1,101 @@
+baseurl = "https://andrew.wafaa.eu/" # Make sure to end baseurl with a '/'
+title = "European Wafaa"
+author = "Andrew Wafaa"
+# Shown in the side menu
+copyright = "&copy; 2017. All rights reserved."
+canonifyurls = true
+paginate = 10
+theme = "blackburn"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Inane ramblings from a FunkyPenguin"
+  brand = "Andrew Wafaa"
+  # googleAnalytics = "Your Google Analytics tracking ID"
+  # disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  highlightjs_extra_languages = ["yaml"]
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  custom_css = ["css/my.css"]
+  custom_js = ["js/my.js"]
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "posts"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 3
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 4
+    url = "/contact/"
+
+[social]
+  # Link your social networking accounts to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitter = "awafaa"
+  # gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
+  # facebook = "*"
+  googleplus = "AndrewWafaa"
+  # weibo = "*"
+  # tumblr = "*"
+
+  # SNS photo/video sharing
+  instagram = "awafaa"
+  # flickr = "*"
+  # photo500px = "*"
+  # pinterest = "*"
+  youtube = "Funkyguin"
+  # vimeo = "*"
+  # vine = "*"
+  # slideshare = "*"
+
+  # SNS career oriented
+  linkedin = "anrewwafaa"
+  # xing = "*"
+
+  # SNS news
+  # reddit = "*"
+  # hackernews = "*"
+
+  # Techie
+  github = "awafaa"
+  gitlab = "awafaa"
+  # bitbucket = "*"
+  # stackoverflow = "*"
+  # serverfault = "*"
+
+  # Gaming
+  # steam = "*"
+  # mobygames = "*"
+
+  # Music
+  # lastfm = "*"
+  # discogs = "*"
+
+  # Other
+  keybase = "awafaa"
